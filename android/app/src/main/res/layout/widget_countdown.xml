@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Platform-driven ticking countdown: keeps counting every second with no widget updates. -->
+<Chronometer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/countdown"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fontFeatureSettings="tnum"
+    android:includeFontPadding="false"
+    android:singleLine="true"
+    android:textColor="#FFFFFFFF"
+    android:textStyle="bold" />

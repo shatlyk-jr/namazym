@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">Namaz wagtlary</string>
+    <string name="widget_description">Bu günki namaz wagtlary, indiki namaza çenli galan wagt we gün/gije suraty.</string>
+    <string name="widget_config_title">Sebit saýlaň</string>
+    <string name="widget_next">Indiki</string>
+    <string name="widget_now">Häzir</string>
+    <string name="widget_tomorrow">ertir</string>
+    <string name="widget_no_data">Namaz wagtlary tapylmady</string>
+    <string name="widget_refresh">Täzele</string>
+
+    <string name="prayer_fasting">Sahar</string>
+    <string name="prayer_morning">Daň</string>
+    <string name="prayer_sunrise">Gün dogýar</string>
+    <string name="prayer_noon">Öýle</string>
+    <string name="prayer_afternoon">Ikindi</string>
+    <string name="prayer_evening">Agşam</string>
+    <string name="prayer_night">Ýassy</string>
+
+    <string name="province_ag">Ahal</string>
+    <string name="province_bn">Balkan</string>
+    <string name="province_dz">Daşoguz</string>
+    <string name="province_lb">Lebap</string>
+    <string name="province_mr">Mary</string>
+</resources>
