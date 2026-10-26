@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">Prayer times</string>
+    <string name="widget_description">Today\'s prayer times, the countdown to the next prayer and a day/night scene.</string>
+    <string name="widget_config_title">Choose location</string>
+    <string name="widget_next">Next</string>
+    <string name="widget_now">Now</string>
+    <string name="widget_tomorrow">tomorrow</string>
+    <string name="widget_no_data">Prayer times not found</string>
+    <string name="widget_refresh">Refresh</string>
+
+    <string name="prayer_fasting">Imsak</string>
+    <string name="prayer_morning">Fajr</string>
+    <string name="prayer_sunrise">Sunrise</string>
+    <string name="prayer_noon">Dhuhr</string>
+    <string name="prayer_afternoon">Asr</string>
+    <string name="prayer_evening">Maghrib</string>
+    <string name="prayer_night">Isha</string>
+</resources>
